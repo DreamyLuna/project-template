@@ -22,7 +22,7 @@ List any software or dependencies needed to run your project.
 
 ```bash
 # Clone the repository
-git clone https://github.com/DreamyLuna/project-template.git
+git clone https://github.com/lostvoicex/project-template.git
 
 # Navigate to the project directory
 cd project-template
